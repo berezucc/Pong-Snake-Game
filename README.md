@@ -11,7 +11,7 @@ Built using Java on Ready To Program IDE.
 ## Visuals
 <img width="769" alt="Pic1" src="https://user-images.githubusercontent.com/96497560/149042767-7dd0196f-bdd2-4f7a-89b8-216b6c0bdd90.PNG">
 <img width="765" alt="pic2" src="https://user-images.githubusercontent.com/96497560/149042769-b25ca31c-1a00-42e8-8f00-902cca4c0547.PNG">
-
+<img width="924" alt="pic4" src="https://user-images.githubusercontent.com/96497560/149048994-7f67a46d-a9b7-4d3a-93ce-968c671d2473.PNG">
 <img width="777" alt="pic3" src="https://user-images.githubusercontent.com/96497560/149042877-ddc625ae-3904-4461-8bed-155cc7128ee2.PNG">
 
 
